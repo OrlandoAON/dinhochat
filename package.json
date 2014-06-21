@@ -1,0 +1,11 @@
+{
+  "name": "simpleChat",
+  "version": "1.0.0",
+  "description": "Peter Lecture",
+  "main": "app.js",
+  "author": "Orlando Neto",
+  "dependencies" : {
+    "express": "~3.0.0",
+    "socket.io" : "~0.9.10"
+  }
+}
